@@ -112,31 +112,4 @@ It connects:
 Industry Demand → Skills → Qualifications → Courses → Curriculum → Training Capacity → Trainers → Infrastructure → Candidates → Employment Outcomes
 ```
 ## 🌐 Solution at a Glance
-```mermaid
-flowchart LR
-
-A[Industry Demand] --> B[Labour-Market Intelligence]
-
-B --> C[Job & Skill Analysis]
-C --> D[Skill Gap Detection]
-
-D --> E[Course & Qualification Mapping]
-
-E --> F[AI Recommendation Engine]
-
-F --> G[Curriculum Updates]
-F --> H[Trainer Upskilling]
-F --> I[Equipment Planning]
-F --> J[Training Capacity]
-F --> K[Career Guidance]
-F --> L[District Training Plans]
-
-G --> M[Training Delivery]
-H --> M
-I --> M
-J --> M
-
-M --> N[Placement Outcomes]
-N --> O[Employer Feedback]
-O --> B
-```
+<img src="solution_flowchart.png" alt="Domain">
