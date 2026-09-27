@@ -156,65 +156,27 @@ The platform is designed to:
 - Establish a continuous industry-to-training feedback loop.
 
 # 🏗️ Architecture
-High-Level Solution Architecture
+<b>High-Level Solution Architecture</b>
+</br>
+</br>
+<img src="Architecture.jpeg" alt="Domain">
 
-```mermaid
-flowchart TB
+# 🔄 Core Workflow
 
-subgraph DS["📥 Data Sources"]
-    A1[Job Postings]
-    A2[Employer Surveys]
-    A3[Industry Consultations]
-    A4[Placement Data]
-    A5[Sector Growth Data]
-    A6[Technology Trends]
-    A7[Course Data]
-    A8[Qualification Data]
-end
+# 🚀 Features
 
-subgraph ING["⚙️ Data Ingestion Layer"]
-    B1[ETL]
-    B2[APIs]
-    B3[Data Upload]
-    B4[Validation]
-    B5[Cleaning]
-end
 
-subgraph INT["🧠 Labour-Market Intelligence"]
-    C1[Demand Analysis]
-    C2[Skill Extraction]
-    C3[Trend Detection]
-    C4[Regional Analysis]
-    C5[Skill Gap Analysis]
-end
-
-subgraph MAP["🔗 Mapping Layer"]
-    D1[Job → Skills]
-    D2[Skills → Qualifications]
-    D3[Qualifications → Courses]
-    D4[Courses → Training]
-end
-
-subgraph AI["🤖 Recommendation Engine"]
-    E1[Curriculum Updates]
-    E2[Course Demand]
-    E3[Trainer Requirements]
-    E4[Equipment Requirements]
-    E5[Career Pathways]
-    E6[District Plans]
-end
-
-subgraph USERS["👥 Stakeholders"]
-    F1[Policymakers]
-    F2[Training Institutions]
-    F3[Employers]
-    F4[Trainers]
-    F5[Candidates]
-end
-
-DS --> ING
-ING --> INT
-INT --> MAP
-MAP --> AI
-AI --> USERS
-```
+# 🤖 AI & Analytics
+# 🗂️ Data Model
+# 📊 Key Analytics
+# 📈 Dashboards
+# 🔐 Data Governance
+# 🔁 Continuous Feedback Loop
+# 🎯 Expected Outcomes
+# 📊 KPIs
+# 🛣️ Roadmap
+# 🧩 Technology Stack
+# 🏁 Success Definition
+# 🔮 Future Scope
+# 🤝 Contribution
+# 📌 Conclusion
