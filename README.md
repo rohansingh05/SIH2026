@@ -249,7 +249,7 @@ Basic Wiring	Medium	High	🟢 Low
 <details> <summary><strong>5️⃣ Course & Curriculum Alignment</strong></summary>
 
 The platform maps:
-
+```
 Job Role
    ↓
 Required Skills
@@ -259,21 +259,21 @@ Qualification
 Existing Course
    ↓
 Curriculum Modules
-Curriculum Intelligence
-
+```
+### Curriculum Intelligence
 The system identifies:
 
-✅ Skills already covered
-❌ Missing skills
-⚠️ Outdated modules
-🆕 Emerging skills
-🧪 Required practical training
-🛠️ Required equipment
-🧑‍🏫 Required trainer competencies
-Example Recommendation
-📘 Course
+- ✅ Skills already covered
+- ❌ Missing skills
+- ⚠️ Outdated modules
+- 🆕 Emerging skills
+- 🧪 Required practical training
+- 🛠️ Required equipment
+- 🧑‍🏫 Required trainer competencies
+- Example Recommendation
+### 📘 Course
 Industrial Automation Technician
-
+```
 ┌─────────────────────────────────────┐
 │ ADD                                 │
 │ ✓ PLC Programming                   │
@@ -293,11 +293,12 @@ Industrial Automation Technician
 │ → HMI Panels                        │
 │ → Industrial Sensors                │
 └─────────────────────────────────────┘
+```
 </details>
 <details> <summary><strong>6️⃣ Course Demand & Supply Analysis</strong></summary>
 
 The platform compares labour-market demand against training capacity.
-
+```
 Example
 LABOUR DEMAND
      │
@@ -312,23 +313,25 @@ TRAINING CAPACITY
      │
      ▼
 ⚠️ CAPACITY GAP
-Intelligence Generated
-High-demand / low-capacity courses
-High-capacity / low-demand courses
-Emerging occupations
-Capacity expansion opportunities
-Courses requiring additional validation
+```
+- Intelligence Generated
+- High-demand / low-capacity courses
+- High-capacity / low-demand courses
+- Emerging occupations
+- Capacity expansion opportunities
+- Courses requiring additional validation
 </details>
 <details> <summary><strong>7️⃣ Obsolescence & Oversupply Detection</strong></summary>
 
 Courses may be flagged for review when:
 
-Relevant job demand consistently declines.
-Employer requirements change substantially.
-Placement outcomes deteriorate.
-Technology changes skill requirements.
-Training capacity exceeds observed demand.
-Employers report low curriculum relevance.
+- Relevant job demand consistently declines.
+- Employer requirements change substantially.
+- Placement outcomes deteriorate.
+- Technology changes skill requirements.
+- Training capacity exceeds observed demand.
+- Employers report low curriculum relevance.
+```
 Example
 📘 Course Health Monitoring
 
@@ -343,7 +346,7 @@ Recommendation
 ────────────────────────────────────
 Review curriculum and assess whether
 the programme requires restructuring.
-
+```
 The platform should support human review and decision-making, rather than automatically discontinuing programmes.
 
 </details>
@@ -352,18 +355,18 @@ The platform should support human review and decision-making, rather than automa
 Employers can participate directly in validating platform recommendations.
 
 Employers Can
-Identify required skills.
-Validate job roles.
-Review curriculum changes.
-Identify emerging technologies.
-Provide candidate-readiness feedback.
-Report skill gaps.
-Participate in curriculum consultations.
+- Identify required skills.
+- Validate job roles.
+- Review curriculum changes.
+- Identify emerging technologies.
+- Provide candidate-readiness feedback.
+- Report skill gaps.
+- Participate in curriculum consultations.
 </details>
 <details> <summary><strong>9️⃣ Trainer Development</strong></summary>
 
 Curriculum updates may create new trainer competency requirements.
-
+```
 Required Trainer Skills
           │
           ▼
@@ -376,15 +379,16 @@ Existing Trainer Skills
            │
            ▼
     Competency Gap
+```
 Example
 NEW CURRICULUM
 Industrial IoT
 
 Required:
-✓ PLC
-✓ Sensors
-✓ Industrial Networking
-✗ IoT Platforms
+- ✓ PLC
+- ✓ Sensors
+- ✓ Industrial Networking
+- ✗ IoT Platforms
 
 Action:
 🧑‍🏫 Trainer Upskilling Recommended
@@ -401,8 +405,8 @@ This enables evidence-based equipment and infrastructure planning.
 The platform provides demand intelligence at district level.
 
 Example
+```
 📍 District: Example District
-
 HIGH-DEMAND SECTORS
 ├── Manufacturing
 ├── Renewable Energy
@@ -422,7 +426,7 @@ TRAINING CAPACITY
 ├── Existing Seats       : 1,200
 ├── Estimated Demand     : 2,000
 └── Capacity Gap         :   800
-
+```
 This allows authorities to create district-specific training plans instead of relying only on state or national averages.
 
 </details>
@@ -430,15 +434,14 @@ This allows authorities to create district-specific training plans instead of re
 
 Candidates can provide:
 
-Education
-Existing skills
-Experience
-Location
-Career interests
-
-The platform can generate:
+- Education
+- Existing skills
+- Experience
+- Location
+- Career interests
 
 Example Career Path
+```
 Electrical Technician
         ↓
 Industrial Electrical Technician
@@ -448,14 +451,14 @@ PLC Technician
 Industrial Automation Technician
         ↓
 Automation Specialist
-
+```
 Each stage can show:
 
-Required skills
-Qualifications
-Courses
-Experience requirements
-Local opportunities
+- Required skills
+- Qualifications
+- Courses
+- Experience requirements
+- Local opportunities
 </details>
 
 
@@ -596,66 +599,66 @@ Example UI
 
 Provides:
 
-Course demand
-Curriculum gaps
-Placement trends
-Required equipment
-Trainer competency gaps
-Employer feedback
-🏢 Employer Dashboard
+- Course demand
+- Curriculum gaps
+- Placement trends
+- Required equipment
+- Trainer competency gaps
+- Employer feedback
+## 🏢 Employer Dashboard
 
 Provides:
 
-Talent availability
-Skill availability
-Training partnerships
-Candidate readiness
-Skill-gap reporting
-Curriculum validation
+- Talent availability
+- Skill availability
+- Training partnerships
+- Candidate readiness
+- Skill-gap reporting
+- Curriculum validation
 ## 🎓 Candidate Dashboard
 
 Provides:
 
-Current skills
-Skill gaps
-Recommended courses
-Career pathways
-Local job opportunities
-Required qualifications
+- Current skills
+- Skill gaps
+- Recommended courses
+- Career pathways
+- Local job opportunities
+- Required qualifications
 # 🔐 Data Governance
 Because the platform may process employment and candidate information, responsible data governance is essential.
 
-Principles
-🔒 Data minimisation
-✅ Consent where required
-👥 Role-based access control
-🔐 Secure data storage
-🛡️ Encryption
-📝 Audit logging
-🕶️ Anonymisation for analytics
-⏳ Appropriate retention policies
-🔍 Transparent recommendation methodology
+### Principles
+- 🔒 Data minimisation
+- ✅ Consent where required
+- 👥 Role-based access control
+- 🔐 Secure data storage
+- 🛡️ Encryption
+- 📝 Audit logging
+- 🕶️ Anonymisation for analytics
+- ⏳ Appropriate retention policies
+- 🔍 Transparent recommendation methodology
 
 Sensitive candidate information should not be unnecessarily exposed in aggregate dashboards.
 # 🎯 Expected Outcomes
-🏫 For Training Institutions
-Better curriculum alignment
-Improved course planning
-Better equipment utilisation
-Data-driven capacity planning
-Improved trainer development
-🏢 For Employers
-Better access to relevant candidates
-Reduced skill mismatch
-Improved candidate relevance
-Better collaboration with training institutions
-🎓 For Candidates
+## 🏫 For Training Institutions
+- Better curriculum alignment
+- Improved course planning
+- Better equipment utilisation
+- Data-driven capacity planning
+- Improved trainer development
+## 🏢 For Employers
+- Better access to relevant candidates
+- Reduced skill mismatch
+- Improved candidate relevance
+- Better collaboration with training institutions
+## 🎓 For Candidates
 Better career visibility
 More relevant course recommendations
 Clearer career pathways
 Better understanding of required skills
 Improved employment opportunities
-🏛️ For Policymakers
+## 🏛️ For Policymakers
 District-level labour-market intelligence
 Evidence-based training planning
 Identification of emerging occupations
@@ -663,39 +666,39 @@ Better resource allocation
 Continuous programme relevance monitoring
 
 # 🧩 Technology Stack
-🎨 Frontend
-React / Next.js
-TypeScript
-Responsive dashboard framework
-⚙️ Backend
-Python / FastAPI
-Node.js where appropriate
-REST APIs
-📊 Data & Analytics
-Python
-Pandas
-Scikit-learn
-NLP / LLM processing
-ETL pipelines
-🗄️ Database
-PostgreSQL
-Elasticsearch / OpenSearch
-Object storage for raw datasets
-🤖 AI / ML
-NLP-based skill extraction
-Semantic similarity models
-Classification models
-Time-series trend analysis
-Recommendation models
+## 🎨 Frontend
+- React / Next.js
+- TypeScript
+- Responsive dashboard framework
+- ⚙️ Backend
+- Python / FastAPI
+- Node.js where appropriate
+- REST APIs
+## 📊 Data & Analytics
+- Python
+- Pandas
+- Scikit-learn
+- NLP / LLM processing
+- ETL pipelines
+- 🗄️ Database
+- PostgreSQL
+- Elasticsearch / OpenSearch
+- Object storage for raw datasets
+## 🤖 AI / ML
+- NLP-based skill extraction
+- Semantic similarity models
+- Classification models
+- Time-series trend analysis
+- Recommendation models
 ☁️ Infrastructure
 Docker
-Cloud infrastructure
-CI/CD
-Monitoring
-Logging
+- Cloud infrastructure
+- CI/CD
+- Monitoring
+- Logging
 # 🏁 Success Definition
 The platform will be considered successful when it establishes a measurable connection between:
-
+```text
 WHAT EMPLOYERS NEED
           ↓
 LABOUR-MARKET INTELLIGENCE
@@ -715,22 +718,24 @@ CANDIDATE PLACEMENT
 EMPLOYER FEEDBACK
           ↓
 CONTINUOUS IMPROVEMENT
+```
 The Core Operating Model
-
+```
 Train for the skills the market needs, in the locations where they are needed, at the proficiency levels employers require — and continuously update training based on real-world outcomes.
+```
 # 🔮 Future Scope
 Potential future enhancements include:
 
-📡 Real-time labour-market monitoring
-🔮 Predictive workforce-demand forecasting
-🏛️ Government employment-platform integration
-💼 Job-portal integration
-🧩 Industry-specific skill taxonomies
-🤖 AI-powered curriculum comparison
-🆕 Automated emerging-occupation detection
-🪪 Digital skill passports
-🧠 Candidate skill-assessment engines
-🤝 Employer-to-training-provider collaboration
-🗺️ Geographic skill-demand heat maps
-📐 Workforce-demand simulation
-🧮 Scenario-based district training planning
+- 📡 Real-time labour-market monitoring
+- 🔮 Predictive workforce-demand forecasting
+- 🏛️ Government employment-platform integration
+- 💼 Job-portal integration
+- 🧩 Industry-specific skill taxonomies
+- 🤖 AI-powered curriculum comparison
+- 🆕 Automated emerging-occupation detection
+- 🪪 Digital skill passports
+- 🧠 Candidate skill-assessment engines
+- 🤝 Employer-to-training-provider collaboration
+- 🗺️ Geographic skill-demand heat maps
+- 📐 Workforce-demand simulation
+- 🧮 Scenario-based district training planning
