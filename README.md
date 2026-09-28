@@ -97,9 +97,12 @@ Emerging technologies, evolving job roles, changing productivity standards, regi
 Our platform continuously transforms labour-market signals into actionable recommendations for the skill-development ecosystem.
 
 It connects:
+
 ```
-Industry Demand → Skills → Qualifications → Courses → Curriculum → Training Capacity → Trainers → Infrastructure → Candidates → Employment Outcomes
+  Industry Demand → Skills → Qualifications → Courses → Curriculum → Training Capacity → Trainers →
+  Infrastructure → Candidates → Employment Outcomes
 ```
+
 ## 🌐 Solution at a Glance
 ```mermaid
 flowchart LR
@@ -721,7 +724,8 @@ CONTINUOUS IMPROVEMENT
 ```
 The Core Operating Model
 ```
-Train for the skills the market needs, in the locations where they are needed, at the proficiency levels employers require — and continuously update training based on real-world outcomes.
+Train for the skills the market needs, in the locations where they are needed, at the proficiency levels employers
+require — and continuously update training based on real-world outcomes.
 ```
 # 🔮 Future Scope
 Potential future enhancements include:
