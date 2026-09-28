@@ -24,7 +24,6 @@
 <a href="#️-architecture">Architecture</a> •
 <a href="#-dashboards">Dashboards</a> •
 <a href="#-ai--analytics">AI & Analytics</a> •
-<a href="#-roadmap">Roadmap</a>
 
 </div>
 
