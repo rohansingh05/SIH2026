@@ -39,23 +39,16 @@
 - [💡 Our Solution](#-our-solution)
 - [🎯 Objectives](#-objectives)
 - [🏗️ Architecture](#️-architecture)
-- [🔄 Core Workflow](#-core-workflow)
 - [🚀 Features](#-features)
   
 - [🤖 AI & Analytics](#-ai--analytics)
 - [🗂️ Data Model](#️-data-model)
-- [📊 Key Analytics](#-key-analytics)
 - [📈 Dashboards](#-dashboards)
 - [🔐 Data Governance](#-data-governance)
-- [🔁 Continuous Feedback Loop](#-continuous-feedback-loop)
 - [🎯 Expected Outcomes](#-expected-outcomes)
-- [📊 KPIs](#-key-performance-indicators)
-- [🛣️ Roadmap](#️-implementation-roadmap)
 - [🧩 Technology Stack](#-suggested-technology-stack)
 - [🏁 Success Definition](#-success-definition)
 - [🔮 Future Scope](#-future-scope)
-- [🤝 Contribution](#-contribution)
-- [📌 Conclusion](#-conclusion)
 
 </details>
 
