@@ -46,7 +46,7 @@
 - [📈 Dashboards](#-dashboards)
 - [🔐 Data Governance](#-data-governance)
 - [🎯 Expected Outcomes](#-expected-outcomes)
-- [🧩 Technology Stack](#-suggested-technology-stack)
+- [🧩 Technology Stack](#-technology-stack)
 - [🏁 Success Definition](#-success-definition)
 - [🔮 Future Scope](#-future-scope)
 
