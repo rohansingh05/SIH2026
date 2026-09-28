@@ -23,7 +23,7 @@
 <a href="#-features">Features</a> •
 <a href="#️-architecture">Architecture</a> •
 <a href="#-dashboards">Dashboards</a> •
-<a href="#-ai--analytics">AI & Analytics</a> •
+<a href="#-ai--analytics">AI & Analytics</a>
 
 </div>
 
